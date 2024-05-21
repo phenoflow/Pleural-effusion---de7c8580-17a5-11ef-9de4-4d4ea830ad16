@@ -1,0 +1,30 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/pleural-effusion-pleurisy---primary.py
+inputModule3:
+  class: File
+  path: python/bacterial-pleural-effusion---primary.py
+inputModule4:
+  class: File
+  path: python/pleural-effusion---primary.py
+inputModule5:
+  class: File
+  path: python/other-pleural-effusion---primary.py
+inputModule6:
+  class: File
+  path: python/pleural-effusion-hydrothorax---primary.py
+inputModule7:
+  class: File
+  path: python/pleural-effusion-condition---primary.py
+inputModule8:
+  class: File
+  path: python/effusion---primary.py
+inputModule9:
+  class: File
+  path: python/pleural-effusion-classified---primary.py
+inputModule10:
+  class: File
+  path: python/output-cases.py
